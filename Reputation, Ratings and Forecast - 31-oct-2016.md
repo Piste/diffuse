@@ -1,7 +1,7 @@
 
 ## Lifestyle
 ### Reclaiming time
-Over the summer, my wife and I sold our television. We had made a joke about it in the past. It was not a difficult decision but we had become pretty used to watching shows every night almost. I was feeling a pang of guilt about how much time it took our couple. Our consumption was mainly of tv shows. I cannot say I am a chord-cutter as I never really had cable. For most of my teenage years as well as my twenties, I didn't have a tv at all.
+Over the summer, my wife and I sold our television. We had made a joke about it in the past. It was not a difficult decision but we had become pretty used to watching shows every night almost. I was feeling a pang of guilt about how much time it took away from our couple. Our consumption was mainly of tv shows. I cannot say I am a chord-cutter as I never really had cable. For most of my teenage years as well as my twenties, I didn't have a tv at all.
 
 We sold it on Craigslist and haven't missed it.
 
