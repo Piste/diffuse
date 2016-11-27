@@ -7,14 +7,14 @@ So far, the trend is flat. Let me know if you want me to share the above pieces.
 
 --
 
-I got a [burner](https://burnerapp.com). JOKE ABOUT THE TV SHOW THE WIRE. This is a disposable phone number that I can give willingly to anyone. At the first notice of incoming abuse or annoyance, I will request a new number and discard the previous one. I can give this number to car salesmen, to people on Craigslist, to online companies I have tentative trust in, etc. People in a different sentimental situation than mine would be well-advised to also use a burner for dating. This is not a free service but the convenience and safety is well worth it.
+I got a [burner](https://burnerapp.com). JOKE ABOUT THE TV SHOW THE WIRE. This is a disposable phone number that I can give willy-nilly to anyone. At the first notice of incoming abuse or annoyance, I will request a new number and discard the previous one. I can give this number to car salesmen, to people on Craigslist, to online companies I have tentative trust in, etc. People in a different sentimental situation than mine would be well-advised to also use a burner for dating. This is not a free service but the convenience and safety is well worth it.
 
 The initial impulse for obtaining this number stems from reading a "43 productivity tips for busy people" type of article. This one resonated with me: specify the medium you would like people to use to contact you. Not yet sure what mine is but txt is a good start. There is a phone number in my .sig now.
 
 --
 
-It has been awkward for me to simultaneously love Bitcoin and be unable to effortlessly explain its principles to neophytes who desire to know more. Twitter brought me this magnificent video over the weekend: [Blockchain 101 - A Visual Demo](https://www.youtube.com/watch?v=_160oMzblY8&feature=youtu.be) by Anders Brownworth. It lasts less than 18 minutes and it will easily clarify 6 of the most important tenets of Bitcoin. I would recommend you go watch it now.
+It has been awkward for me to simultaneously love Bitcoin and be unable to effortlessly explain its principles to eager neophytes. Twitter brought me this magnificent video over the weekend: [Blockchain 101 - A Visual Demo](https://www.youtube.com/watch?v=_160oMzblY8&feature=youtu.be) by Anders Brownworth. It lasts less than 18 minutes and it will easily clarify 6 of the most important tenets of Bitcoin. I would recommend you go watch it now. Or send it to your Watch Later queue...
 
 --
 
-And finally a bit of polling. When you go see your favorite general practicioner, do you ask your her/him to explain what your ailment is? Do you enquire as to what each drug’s effect will be? Which drugs in the prescription help reduce the symptoms, which ones address the root cause?
+And finally a bit of polling. When you go see your favorite general practitioner, do you ask her/him to explain what your ailment is? Do you enquire as to what each drug’s effect will be? Which drugs in the prescription help reduce the symptoms, which ones address the root cause?
