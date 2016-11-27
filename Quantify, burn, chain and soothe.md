@@ -7,7 +7,7 @@ So far, the trend is flat. Let me know if you want me to share the above pieces.
 
 --
 
-I got a [burner](https://burnerapp.com). JOKE ABOUT THE TV SHOW THE WIRE. This is a disposable phone number that I can give willingly to anyone. At the first notice of incoming abuse or annoyance through this number, I will request a new number and discard the old one. I can give this number to car salesmen, to people on Craigslist, to online companies I have tentative trust in, etc. People in a different sentimental situation than mine would be well-advised to also use a burner for dating. This is not a free service but the convenience and safety is well worth it.
+I got a [burner](https://burnerapp.com). JOKE ABOUT THE TV SHOW THE WIRE. This is a disposable phone number that I can give willingly to anyone. At the first notice of incoming abuse or annoyance, I will request a new number and discard the previous one. I can give this number to car salesmen, to people on Craigslist, to online companies I have tentative trust in, etc. People in a different sentimental situation than mine would be well-advised to also use a burner for dating. This is not a free service but the convenience and safety is well worth it.
 
 The initial impulse for obtaining this number stems from reading a "43 productivity tips for busy people" type of article. This one resonated with me: specify the medium you would like people to use to contact you. Not yet sure what mine is but txt is a good start. There is a phone number in my .sig now.
 
