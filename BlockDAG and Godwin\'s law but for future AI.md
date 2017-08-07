@@ -1,0 +1,12 @@
+
+My first a-ha moment with Bitcoin was when I understood that nodes used a bittorrent-like peer-to-peer communication method. My thought, soon afterward was “if this blockchain thing I don’t understand has any merit, bitcoin will be impossible to kill. There was then a lot of money being thrown by record and movie industry associations in the fight to scare pirates. But bittorrent never went away. The music industry changed forever. I wondered what a means of transaction you could not stop would do to banks, governments and federal/central authorities of money printing.
+
+When I understood that Ethereum could be the host onto which a new form of governance could run, through smart contracts that evolve like updated versions of code, I had a second epiphany.
+
+Today it is for IOTA that my mind finally clicked. I am yet to read the whitepaper but from what I understood listening to David Sønstebø on [The Ether Review](https://etherreview.info/ether-review-69-iota-the-post-blockchain-era-591f00e2ea5d) then we’re dealing with some alternate form of chain, more like a block-tree than a block-chain - technically it’s a [DAG](https://stackoverflow.com/questions/2283757/can-someone-explain-in-simple-terms-to-me-what-a-directed-acyclic-graph-is) - and nodes don’t need to have a the whole chain (contrarily to bitcoin or ethereum) in order to communicate and validate that a transaction or work has happened.  There are also no fees on transaction and a bunch of other mind blowing statements I am yet to read about. Like, for example the fact that Serguei Popov, one of the six members of the foundation helped create proof-of-stake (?! citation needed).
+
+So far, this new technology seems like what IoT needs, indeed: a means of transacting that is lightweight, transient, with low cost and indestructible. That indestructibility made me think of the Terminator movie series. “Machines” *are* getting smarter. It seems like AI and ML are what makes the headlines, nowadays. Almost literally.
+
+When machines start transacting and optimizing themselves or each other, how will we keep a finger on the switch? Where is the IOTA switch? Are we building the most important base layer that General AI needs to guarantee its survival?
+
+That last apocalyptic part sounds trite. Just like Godwin's law for any argument that ends up invoking Hitler, there should be a rule about any new technology text mentioning the end of mankind as a result of its use.
